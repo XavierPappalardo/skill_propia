@@ -1,55 +1,55 @@
 package calculadora;
 
-public class Calculadora {
+public class Calculadora { 
 
-    // Método sumar 
+    // Método sumar (Realiza la suma de dos números) 
 
     public double sumar(double numero1, double numero2) { 
 
-        // Retornamos la suma de ambos números 
+        // Retornamos el resultado de la suma 
 
-        return numero1 + numero2;
+        return numero1 + numero2; 
 
-    }
+    } 
 
-    // Método restar 
+    // Método restar (Realiza la resta de dos números) 
 
     public double restar(double numero1, double numero2) { 
 
-        // Retornamos la resta de ambos números 
+        // Retornamos el resultado de la resta 
 
-        return numero1 - numero2;
+        return numero1 - numero2; 
 
-    }
+    } 
 
-    // Método multiplicar 
+    // Método multiplicar (Realiza la multiplicación de dos números) 
 
     public double multiplicar(double numero1, double numero2) { 
 
-        // Retornamos la multiplicación de ambos números 
+        // Retornamos el resultado de la multiplicación 
 
-        return numero1 * numero2;
+        return numero1 * numero2; 
 
-    }
+    } 
 
-    // Método dividir 
+    // Método dividir (Realiza la división de dos números) 
 
     public double dividir(double numero1, double numero2) { 
 
-        // Retornamos la división de ambos números 
+        // Retornamos el resultado de la división 
 
-        return numero1 / numero2;
+        return numero1 / numero2; 
 
-    }
+    } 
 
-    // Método potenciar 
+    // Método potenciar (Realiza la potenciación de dos números) 
 
     public double potenciar(double numero1, double numero2) { 
 
-        // Retornamos la potencia de ambos números 
+        // Retornamos el resultado de la potenciación 
 
-        return Math.pow(numero1, numero2);
+        return Math.pow(numero1, numero2); 
 
-    }
+    } 
 
-}
+} 
